@@ -50,6 +50,11 @@ div.container a.navbar-brand {
 
 .anggota li {
 	list-style: none;
+	padding-left: 0;
+}
+
+ul.anggota {
+	padding-left: 0;
 }
 
 .profilku h3 {
